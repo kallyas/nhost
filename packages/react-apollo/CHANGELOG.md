@@ -1,5 +1,11 @@
 # @nhost/react-apollo
 
+## 4.0.11
+
+### Patch Changes
+
+- 8583af8: correct documentation link in readme
+
 ## 4.0.10
 
 ### Patch Changes
